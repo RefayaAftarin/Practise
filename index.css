@@ -1,0 +1,31 @@
+.inner{
+    margin: 10px;
+    border: 10px;
+    border-color: black;
+}
+.container {
+    /* display: flex ;  */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+}
+.inner1{
+    margin: 10px;
+      
+}
+.container1{
+    /* display: flex ;  */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+}
+.inner2{
+    margin: 10px;
+      
+}
+.container2{
+    /* display: flex ;  */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+}
+.head1{
+    color: blue;
+}
